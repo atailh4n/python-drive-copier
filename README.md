@@ -4,8 +4,9 @@
 **It is a drive copier. Simple, fast and can understandable easily!**
 
 ### 💾 Installation and Identification
-**First you need to fill in the values in the config_runner.txt file. You can then run the code directly. Below is an example:**
+#### **First you need to fill in the values in the config_runner.txt file. You can then run the code directly. Below is an example:**
 ![config](https://i.hizliresim.com/2nl76jr.png)
+
 It is that simple. You can run now.
 
 ### 🤔What is the point of this code?
