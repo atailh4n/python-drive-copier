@@ -1,0 +1,2 @@
+[explorer_cfg_567]
+pathDest = D:\pathtoflashnew
