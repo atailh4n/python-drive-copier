@@ -1,5 +1,5 @@
 # ![q](https://i.hizliresim.com/7cyf88f.png)Python Drive Copier
-![header](https://i.hizliresim.com/5d8sl8u.png)
+![header](https://i.hizliresim.com/o5jpkkr.png)
 
 **It is a drive copier. Simple, fast and can understandable easily!**
 
